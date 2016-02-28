@@ -16,7 +16,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 3. Create a R script and name run_analysis.
 
-4.Load the R script using source("run_analysis.txt")
+4.Load the R script using source("run_analysis.txt"). After the exeuction, the new outputs will be replaced inthe merged_tidy_data.tex and calculated_tidy_data.text.
 
-5.Run the R script using run_analysis() as follow instructions:
 
