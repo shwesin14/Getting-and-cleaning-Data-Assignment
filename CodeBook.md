@@ -16,8 +16,7 @@ Study Design
 
 Variables
 subjectId: 1 to 30 each representing a participant in the study
-activity: the activity that the subject was doing at the time of the measurement
-  
+
 •	tBodyAcc-mean()-X 
 •	tBodyAcc-mean()-Y 
 •	tBodyAcc-mean()-Z 
@@ -86,11 +85,13 @@ activity: the activity that the subject was doing at the time of the measurement
 •	fBodyBodyGyroJerkMag-std() 
 
 
-Activity Labels
+Activity Name
+The activity that the subject was doing at the time of the measurement.
+Links the class labels with their activity name. (from: https://github.com/dholtz/GettingAndCleaningData/blob/master/project_data/activity_labels.txt)
 
-•	WALKING (value 1)
-•	WALKING_UPSTAIRS (value 2)
-•	WALKING_DOWNSTAIRS (value 3)
-•	SITTING (value 4)
-•	STANDING (value 5)
-•	LAYING (value 6)
+•	WALKING 
+•	WALKING_UPSTAIRS 
+•	WALKING_DOWNSTAIRS 
+•	SITTING 
+•	STANDING 
+•	LAYING 
