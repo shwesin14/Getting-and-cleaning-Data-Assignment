@@ -17,9 +17,9 @@ Study Design
 Variables
 subjectId: 1 to 30 each representing a participant in the study
 activity: the activity that the subject was doing at the time of the measurement
-tBodyAcc-mean-X
-tBodyAcc-mean-Y
-tBodyAcc-mean-Z
+  tBodyAcc-mean-X
+  tBodyAcc-mean-Y
+  tBodyAcc-mean-Z
 tBodyAcc-std-X
 tBodyAcc-std-Y
 tBodyAcc-std-Z
